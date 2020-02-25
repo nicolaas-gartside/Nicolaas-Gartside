@@ -1,2 +1,1 @@
 # Asteroids
-print("hi")
